@@ -23,7 +23,7 @@ if (flutterVersionName == null) {
 }
 
 android {
-    namespace "com.example.whatsapp_prathamesh"
+    namespace "com.example.memo_chat"
     compileSdkVersion flutter.compileSdkVersion
     ndkVersion flutter.ndkVersion
 
